@@ -132,6 +132,7 @@ public class HomeWork_001 {
         System.out.println("новое значение a – " + a);
         System.out.println("новое значение b – " + b);
         System.out.println();
-        //cvvbffg
+
+        // the end
     }
 }

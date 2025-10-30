@@ -1,3 +1,4 @@
+/*
 package homework_006.zada4a_02;
 
 public class BankomatInfo {
@@ -26,3 +27,4 @@ public class BankomatInfo {
 
     public getMoney()
 }
+*/

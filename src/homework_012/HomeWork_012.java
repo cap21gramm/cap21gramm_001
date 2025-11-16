@@ -30,7 +30,7 @@ public class HomeWork_012 {
         }
 
         if (!foundAbbr) {
-            System.out.println("Аббревиатуры не найдены.");
+            System.out.println("Аббревиатур нет.");
         }
     }
 }
